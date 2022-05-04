@@ -111,7 +111,8 @@ copiedList=getFileList(newDirName);
 for(v=0;v<copiedList.length;v++){
 if(endsWith(copiedList[v],".tif")){
 	print(copiedList.length);
-if(copiedList.length==9){
+
+if(copiedList.length==9){
 	Xtile = 3;        
    	Ytile = 3;
 }
