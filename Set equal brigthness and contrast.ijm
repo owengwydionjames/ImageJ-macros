@@ -1,8 +1,4 @@
 //Open first image. Record and set the brightness and contrast you want for each image. 
-//Channel_1 = DAPI
-//Channel 2 = MBP
-//Channel 3 = NF-H
-//Channel 4 = SOX10
 //Input the values. Run on each open image.
 
 dir=getDirectory("Choose a folder");    
