@@ -38,4 +38,3 @@ name = "[Blind table]";
 selectWindow("Blind table");
 saveAs("results", newDir +"Blinded_fileNames.csv");   //Change file name to which conditions are being blinded
 
-
