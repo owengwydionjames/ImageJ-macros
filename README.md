@@ -5,6 +5,6 @@ Various imageJ macros for pre-processing image files in FIJI/ImageJ.
    
 2. Set equal brightness/contrast manipulations across all images.
 
-3. Split image files into single channel tiffs
+3. Split image files into single channel tiffs.
 
-4. Stitch best-projection images exported from ImageXpress microscopes
+4. Stitch best-projection images exported from ImageXpress microscopes.
